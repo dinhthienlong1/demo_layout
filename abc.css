@@ -1,0 +1,26 @@
+.class {
+  margin: 0 auto;
+  border:1px solid brown ;
+  padding: 2em;
+  width: 960px;
+  
+}
+#conten {
+      background-image: url(https://hpconnect.vn/wp-content/uploads/2019/09/dich-vu-ghep-anh-chuyen-nghiep-hpconnect-2.jpg);
+}
+
+#modau {
+      background: aqua;
+      height: 300px;
+      width: 560px;
+      float: left;
+}
+#ketthuc {
+      background: brown;
+      height: 300px;
+      width: 400px;
+      float: right;
+}
+.clear {
+    clear: both;  
+}
