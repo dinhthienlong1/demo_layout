@@ -15,13 +15,13 @@
         </label>
         <label class="logo">DemoX</label> 
         <ul>
-            <li><a class="action" href="#"><img class="hu5pjgll bixrwtb6" src="https://static.xx.fbcdn.net/rsrc.php/v3/y6/r/VPndBxotRgH.png" style="height:36px;width:36px" alt="" height="50%">Thiên Long</a></li>
+            <li><a class="action" href="#"><img class="hu5pjgll bixrwtb6" src="https://static.xx.fbcdn.net/rsrc.php/v3/y6/r/VPndBxotRgH.png" style="height:36px;width:36px" alt="">Thiên Long</a></li>
             <li><a class="action" href="#"><img class="hu5pjgll bixrwtb6" src="https://static.xx.fbcdn.net/rsrc.php/v3/y8/r/S0U5ECzYUSu.png" style="height:36px;width:36px" alt="">Bạn bè</a></li>
             <li><a class="action" href="#"><img class="hu5pjgll bixrwtb6" src="https://static.xx.fbcdn.net/rsrc.php/v3/y5/r/PrjLkDYpYbH.png" style="height:36px;width:36px" alt="">Nhóm</a></li>
             <li><a class="action" href="#"><img class="hu5pjgll bixrwtb6" src="https://static.xx.fbcdn.net/rsrc.php/v3/yU/r/D2y-jJ2C_hO.png" style="height:36px;width:36px" alt="">marketplace</a></li>
             <li><a class="action" href="#"><img class="hu5pjgll bixrwtb6" src="https://static.xx.fbcdn.net/rsrc.php/v3/y5/r/duk32h44Y31.png" style="height:36px;width:36px" alt="">Video</a></li>
             <li><a class="action" href="#"><img class="hu5pjgll bixrwtb6" src="https://static.xx.fbcdn.net/rsrc.php/v3/ys/r/8wTx0Eu2vRq.png" style="height:36px;width:36px" alt="">Sự kiện</a></li>
-            
+            <!-- Add comment -->
         </ul>
     </nav>
 </body>
