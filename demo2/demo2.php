@@ -14,6 +14,7 @@
               <input type="text" class="input" placeholder="email">
               <input type="text" class="input" placeholder="phone">
               <input type="text" class="input" placeholder="subject">
+              <input type="text" class="input" placeholder="subject">
               
             </div>
             <div>
